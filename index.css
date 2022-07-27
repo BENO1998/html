@@ -1,0 +1,21 @@
+body{
+    background-color:blue;
+}
+.fa{
+    color: skyblue;
+}
+.box-part{
+    margin: 10px 5px;
+    border-radius: 20px;
+    background-color:white;
+    padding: 40px 5px;
+}
+span{
+    font-size: 12px;
+}
+a{
+ border-bottom: 1px blue;
+}
+.box{
+    padding: 50px 0px;
+}
